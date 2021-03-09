@@ -1,4 +1,11 @@
-﻿using System;
+/*
+Tugas Praktek Pertama Matkul Pemrograman
+Nama : Gading Al-Azam Purnama
+NIM : 20.11.3408
+Kelas : 20 Informatika 02
+*/ 
+
+using System;
 
 namespace Kalkulator
 {
